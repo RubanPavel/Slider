@@ -1,9 +1,19 @@
+body {
+  background-color: aquamarine;
+}
 .wrapper {
-  display: flex;
+  background-color: azure;
+  text-align: center;
+  padding: 20px;
   width: 300px;
+  border: 2px gold solid;
+  border-radius: 15px;
   margin: 0 auto;
 }
-.btn {
+.btn button {
 }
-.img {
+
+.img img {
+  padding: 10px 0px;
+  width: 300px;
 }
